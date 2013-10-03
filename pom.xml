@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>net.exacode.example</groupId>
+	<groupId>net.hexacode.example</groupId>
 	<artifactId>executable-jar</artifactId>
 	<packaging>jar</packaging>
 	<name>executable-jar</name>
@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>net.exacode.example.EntryPoint</mainClass>
+							<mainClass>net.hexacode.example.EntryPoint</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
