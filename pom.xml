@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.exacode.example</groupId>
-	<artifactId>executable-jar</artifactId>
+	<artifactId>maven-executable-jar-example</artifactId>
 	<packaging>jar</packaging>
 	<name>executable-jar</name>
 	<version>0.0.1-SNAPSHOT</version>
