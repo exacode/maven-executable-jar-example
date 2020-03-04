@@ -7,7 +7,7 @@ public class EntryPoint {
 	private static final Logger logger = LoggerFactory.getLogger(EntryPoint.class.getClass());
 	
 	public static void main(String[] args) {
-		logger.debug("Hello world");
+		logger.info("Hello world");
 	}
 
 }
