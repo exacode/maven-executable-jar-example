@@ -14,7 +14,8 @@ Building jar
 
 Runing jar
 ----------
-	java -jar target/executable-jar-0.0.1-SNAPSHOT.jar
+	
+	java -jar target/maven-executable-jar-example-0.0.1-SNAPSHOT.jar
 
 Donation
 --------
