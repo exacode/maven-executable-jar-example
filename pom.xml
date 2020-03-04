@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>net.exacode.example.EntryPoint</mainClass>
+							<mainClass>de.caternberg.example.EntryPoint</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
