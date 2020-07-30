@@ -6,7 +6,7 @@ export DOCKER_BUILDKIT=1
 #sudo buildkit
 #see https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84
 #docker rmi example-maven:latest
-docker build -t example-maven:latest .
+docker build -t example-maven:latest  -f Dockerfile.multistagebuild .
 #docker build --target gitclone -t example-maven:latest .
 #docker build --target build -t example-maven:latest .
 #docker build --target run -t example-maven:latest .
