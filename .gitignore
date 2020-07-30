@@ -6,3 +6,4 @@ target
 .pmd
 .project
 .idea
+maven-executable-jar-example.iml
