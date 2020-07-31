@@ -1,6 +1,7 @@
 Example of executable jar built with maven
 ==========================================
 
+
 Building jar
 ------------
 
