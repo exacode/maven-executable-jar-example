@@ -13,7 +13,7 @@ Building jar
 ```
 * Build jar package and embed all dependencies:
 ```		
-		mvn clean package -Dembedd-dependencies`
+		mvn clean package -Dembedd-dependencies
 ```
 * deploy to nexus
 ```
